@@ -1,0 +1,25 @@
+Exercício 1: 
+Crie um algoritmo que leia o nome, a idade, o peso e a altura de 5 pessoas, armazenando em vetores.
+
+- Mostre as informações solicitadas de cada pessoa e informe:
+A maior altura e a menor altura.
+O maior peso e menor peso;
+A maior idade e a menor idade.
+
+Exercício 2: 
+Crie um programa que faça o cadastro de 5 alunos em uma escola, armazenando seus dados como: nome, idade e  3 notas  para cada aluno. Ao final, mostre todos os dados dos alunos como: nome, idade, as notas e a média. Após calcular a média, verifique para cada aluno se este estará aprovado (média maior ou igual a 7,0), em recuperação (média menor que 7,0 e maior ou igual a 5,0) ou reprovado (média menor que 5,0) com base nestes critérios.
+
+Exercício 3: 
+Implemente um programa que permita cadastrar contatos telefônicos em uma agenda, utilizando vetores para armazenar os nomes e números de telefone. Permita que o usuário digite o código 1 para adicionar um número e 2 para mostrar os números cadastrados e encerrar o software.
+
+Exercício 4: 
+Crie um software que leia 5 números inteiros e, em seguida, mostre na tela:
+A quantidade de números ímpares;
+A quantidade de números negativos;
+O maior e o menor número;
+A média de números pares;
+A média de números inseridos.
+
+
+Exercício 5: 
+Desenvolva um programa que registre as vendas de uma loja, armazenando os valores em um vetor e apresentando o total de vendas ao final. Considere que cada venda precisa do nome de um produto, seu preço e sua quantidade. Crie um menu onde o usuário possa digitar o número 1 para adicionar uma venda e o número 2 para sair do menu e exibir o total das vendas realizadas.
